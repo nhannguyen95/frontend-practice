@@ -8,5 +8,5 @@
 
 - [x] [Blog post](https://codepen.io/nhannguyen95/pen/ZRZvmX)
 - [x] [Crop same-size image gallery](https://codepen.io/nhannguyen95/pen/ZRPZoa)
-- [x] [Dating page - Purrfect Match](https://codepen.io/nhannguyen95/pen/PagEVq
+- [x] [Dating page - Purrfect Match](https://codepen.io/nhannguyen95/pen/PagEVq)
 
