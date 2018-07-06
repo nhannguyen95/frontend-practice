@@ -10,3 +10,4 @@
 - [x] [Crop same-size image gallery](https://codepen.io/nhannguyen95/pen/ZRPZoa)
 - [x] [Dating page - Purrfect Match](https://codepen.io/nhannguyen95/pen/PagEVq)
 - [x] [Score Keeper](https://codepen.io/nhannguyen95/pen/PavRrB)
+- [x] [Color Game](https://codepen.io/nhannguyen95/pen/OEegEz)
